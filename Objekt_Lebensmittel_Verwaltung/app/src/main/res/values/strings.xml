@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Objekt_Lebensmittel_Verwaltung</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="massliste">
+        <item>Stück</item>
+        <item>g</item>
+        <item>dag</item>
+        <item>kg</item>
+        <item>Liter</item>
+
+    </string-array>
+
+</resources>
+
+
+

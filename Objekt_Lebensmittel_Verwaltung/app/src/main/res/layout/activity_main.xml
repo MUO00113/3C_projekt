@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!--<fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/standort_frag"
+        android:name="com.example.objekt_lebensmittel_verwaltung.Standort_fragment"/>-->
+
+    <!--<fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:id="@+id/objekt_frag"
+        android:name="com.example.objekt_lebensmittel_verwaltung.Objekt_fragment"/>-->
+
+    <!--<fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/objekt_list_frag"
+        android:name="com.example.objekt_lebensmittel_verwaltung.Objekt_liste"
+        />-->
+
+</LinearLayout>
